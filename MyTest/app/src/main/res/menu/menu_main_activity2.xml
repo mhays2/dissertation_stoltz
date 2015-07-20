@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mh.mytest.MainActivity2Activity">
+    <item android:id="@+id/next"
+        android:title="Next" />
+    <item android:id="@+id/go_back"
+        android:title="Go back" />
+
+
+</menu>

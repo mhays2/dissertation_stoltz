@@ -1,0 +1,2 @@
+include ':app', ':ARLibrary'
+include ':zBarScannerLibrary'
